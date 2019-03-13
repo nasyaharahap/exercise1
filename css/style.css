@@ -1,0 +1,48 @@
+body {
+    overflow: hidden;
+}
+
+.profile {
+    font-family: 'Lilita One';
+    padding-top: 250pt;
+    height: 570px;
+    background: #cfd8dc;
+}
+
+.education {
+    font-family: 'Lilita One';
+    font-weight: bold;
+    padding-top: 250pt;
+    height: 670px;
+    background: #cfd8dc;
+}
+
+.about {
+    font-family: 'Lilita One';
+    padding-top: 250pt;
+    height: 670px;
+    background: #cfd8dc;
+}
+
+.title-nav {
+    font-family: 'Lilita One';
+}
+
+.title {
+    font-family: 'Permanent Marker';
+}
+
+.nav-item {
+    margin: 20px;
+    font-size: 12pt;
+}
+
+.navbar-nav {
+    margin-right: 50pt;
+    margin-left: 50pt;
+}
+
+p {
+    font-family: 'Lilita One';
+    text-align: center;
+}
